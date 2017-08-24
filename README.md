@@ -9,4 +9,4 @@ We learned about python datatypes, if-elif-else conditionals, for and while loop
 Here is my [basics Jupyter Notebook](https://github.com/XinyueZh/Quant-python/blob/master/python-basics-notebook.ipynb).
 
 ## python secret project
-There are lots of good algorithm questions on a certain site, and here are my [solution](http://).
+There are lots of good algorithm questions on a certain site, and here are my [solution](https://github.com/XinyueZh/Quant-python/blob/master/python-secret-notebook.ipynb).
