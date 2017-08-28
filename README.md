@@ -10,3 +10,6 @@ Here is my [basics Jupyter Notebook](https://github.com/XinyueZh/Quant-python/bl
 
 ## python secret project
 There are lots of good algorithm questions on a certain site, and here are my [solution](https://github.com/XinyueZh/Quant-python/blob/master/python-secret-notebook.ipynb).
+
+## python interview project
+There are lots of interview questions about python. Here's [some of them and my answers](https://github.com/XinyueZh/Quant-python/blob/master/python-interview-notebook4.ipynb).
